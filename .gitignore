@@ -6,6 +6,7 @@ Gemfile.lock
 # Jekyll cache
 .jekyll-cache
 _site
+.sass-cache
 
 # RubyGems
 *.gem
@@ -20,3 +21,9 @@ package-lock.json
 
 # Misc
 assets/js/dist
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
